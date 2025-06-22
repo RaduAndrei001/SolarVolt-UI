@@ -123,4 +123,4 @@ Scopul acestui proiect este să creeze un sistem complet, ușor de folosit, pent
 
 ## Pe scurt
 
-Acest proiect îți arată cum să monitorizezi și să prezici comportamentul panourilor solare cu ESP32, PHP, MySQL și AI, folosind componente simple și software open-source. Datele sunt colectate, analizate și afișate ușor, iar sistemul poate fi extins pentru orice aplicație industrială sau casnică.
+Acest proiect îți arată cum să monitorizezi și să prezici comportamentul panourilor solare cu ESP32, PHP, MySQL folosind componente simple și software open-source. Datele sunt colectate, analizate și afișate ușor, iar sistemul poate fi extins pentru orice aplicație industrială sau casnică.
